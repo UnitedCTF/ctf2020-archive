@@ -1,0 +1,1 @@
+{"success": true, "data": [{"type": "correct", "user": {"id": 207, "name": "Blackwidou_"}, "date": "2020-09-21T13:34:31+00:00", "challenge_id": 43, "id": 5525, "team": null, "challenge": {"category": "Web", "id": 43, "value": 10, "name": "Web-101 Flag 1"}}], "meta": {"count": 1}}
